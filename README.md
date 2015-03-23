@@ -12,4 +12,4 @@ This plugin basically checks how many spawns the map has when the map is started
 * [CS] Spawn Points (https://github.com/gamemann/CS_SpawnPoints)
 
 # Credits
-* SM9 - Converting the plugin over to the new 1.7+ SourceMod syntax.
+* SM9 - Converting the plugin over to the new SourceMod 1.7+ syntax.
