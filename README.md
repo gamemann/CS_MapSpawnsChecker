@@ -5,10 +5,10 @@ This plugin basically checks how many spawns the map has when the map is started
 * AutoExecConfig.inc (https://github.com/Impact123/AutoExecConfig)
 * MultiColors (https://forums.alliedmods.net/showthread.php?t=247770)
 
-# Works Well With The Following GameModes:
+# Works Well With The Following GameModes
 * Arena 1v1
 
-# Also Check Out:
+# Also Check Out
 * [CS] Spawn Points (https://github.com/gamemann/CS_SpawnPoints)
 
 # Credits
