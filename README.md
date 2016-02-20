@@ -6,3 +6,6 @@ This plugin basically checks how many spawns the map has when the map is started
 
 # Also Check Out
 * [CS] Spawn Points (https://github.com/gamemann/CS_SpawnPoints)
+
+# Updated Link
+* Updated plugin available on [GitLab] (https://lab.gflclan.com/gamemann/CS_MapSpawnsChecker)!
